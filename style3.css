@@ -1,0 +1,30 @@
+table, th, td {
+  border: 1px solid;
+  height: 50px;
+  width: 550px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 150px;
+}
+
+/*warna table*/
+
+.hitam {
+  color: #ffffff;
+  background: #000000;
+}
+
+.hijau {
+  color: #ffffff;
+  background-color: #177a00;
+}
+
+.merah {
+  color: #ffffff;
+  background: #f41d1d;
+}
+
+/*warna table*/
